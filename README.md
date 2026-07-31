@@ -1,12 +1,10 @@
 # Olá, eu sou o Pedro Santos Schweitzer 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Pedro%20Schweitzer&fontSize=42&animation=fadeIn)
-
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante do **3º ano do Ensino Médio & Curso Técnico em TI**.
-- 🚀 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
-- 💡 Focado em aprender novas linguagens, aprimorar minhas habilidades práticas e construir soluções reais.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [E-mail](mailto:seu-email@email.com)
+- 🚀 Curioso por tecnologia, desenvolvimento de software e resolução de problemas.
+- 💡 Focado em aprender novas linguagens, aprimorar minhas habilidades práticas e construir sprojetos.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [E-mail](pedrosschweitzer@gmail.com)
 
 ---
 
@@ -15,9 +13,9 @@
 
 O **[TCC-SIGA](https://github.com/Edrosantos1/TCC-SIGA)** é o meu Trabalho de Conclusão de Curso do ensino técnico em TI. Ele representa um marco importante na minha jornada dev, reunindo todo o aprendizado prático e conceitual que adquiri durante o curso.
 
-- 🛠️ **Tecnologias:** JavaScript, HTML, CSS (adicione outras tecnologias que usou)
-- 🎯 **Objetivo:** [Escreva aqui em uma ou duas frases o objetivo principal do sistema, ex: Automatizar a gestão escolar e organizar o fluxo de dados dos alunos.]
-- 📌 **Destaques:** Desenvolvimento completo, estruturação da lógica e integração de funcionalidades para resolver um problema real.
+- 🛠️ **Tecnologias:** JavaScript, HTML, CSS, PHP, MySQL
+- 🎯 **Objetivo:** Reestruturar a organização e dar praticidade para acervos/bibliotecas
+- 📌 **Destaques:** Desenvolvimento em andamento, procura resolver um problema real.
 
 ---
 
@@ -28,6 +26,8 @@ O **[TCC-SIGA](https://github.com/Edrosantos1/TCC-SIGA)** é o meu Trabalho de C
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
