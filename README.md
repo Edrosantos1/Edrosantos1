@@ -34,6 +34,6 @@ O **[TCC-SIGA](https://github.com/Edrosantos1/TCC-SIGA)** é o meu Trabalho de C
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edrosantos1&show_icons=true&theme=dark&hide_rank=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edrosantos1&theme=dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edrosantos1&layout=compact&theme=dark" />
 </p>
