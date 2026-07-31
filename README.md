@@ -35,5 +35,5 @@ O **[TCC-SIGA](https://github.com/Edrosantos1/TCC-SIGA)** é o meu Trabalho de C
 
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edrosantos1&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edrosantos1&layout=compact&theme=dark&hide_progress=true" />
+  <img height="160em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&width=400&height=160&lines=Linguagens+%26+Techs:;JavaScript+%7C+PHP;HTML5+%7C+CSS3;MySQL+%7C+Git" />
 </p>
