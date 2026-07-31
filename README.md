@@ -9,7 +9,7 @@
 ---
 
 ### 🏆 Projeto em Destaque: TCC-SIGA
-> **O meu primeiro grande projeto!** 🌟
+> **O meu primeiro grande projeto** 
 
 O **[TCC-SIGA](https://github.com/Edrosantos1/TCC-SIGA)** é o meu Trabalho de Conclusão de Curso do ensino técnico em TI. Ele representa um marco importante na minha jornada dev, reunindo todo o aprendizado prático e conceitual que adquiri durante o curso.
 
